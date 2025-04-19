@@ -1,1 +1,1 @@
-segment.github.io
+블로그: https://segment.github.io
